@@ -26,13 +26,13 @@ My research interest focuses 3D reconstruction.
 
 # 🔥 News
 - *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and Generative AI. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
-- *2024.02*: &nbsp;🎉🎉 Three paper accepted by CVPR 2024!
-- *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
-- *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
+- *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by CVPR 2024!
+- *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
-- *2023.02*: &nbsp;🎉🎉 Our paper "High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition" is accept by CVPR 2023! Preprint paper and code will be released soon.
-- *2022.05*: &nbsp;🎉🎉 I will join [Innopeak](https://www.innopeaktech.com/) as research intern this summer.
-
+- *2023.04*: &nbsp;🎉🎉 Our paper "Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation" was accepted by IEEE Transactions on Medical Imaging (IF = 11.037)!
+- *2023.01*: &nbsp;🎉🎉 Our paper "CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects" was accepted by Journal of Medical Imaging (IF = 2.4)!
+- *2023.01*: &nbsp;🎉🎉 Our paper "CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation" was accepted by Journal of Medical Imaging (IF = 7.7)!
+- *2022.10*: &nbsp;🎉🎉 One paper was accepted by SPIE Medical Imaging 2024!
 
 <span class='anchor' id='publications'></span>
 
