@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Luan's Homepage"
+title                    : "Ange Lou's Homepage"
 description              : "Ph.D. Candidate"
-repository               : "tyluann/tyluann.github.io"
+repository               : "AngeLouCN/AngeLou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Luan (栾天宇)"
-  avatar           : "images/android-chrome-512x512.png"
-  cv               : "pdfs/CV_Tianyu_Luan_2403.pdf"
-  location         : "Buffalo NY, USA"
+  name             : "Ange Lou (楼安格)"
+  avatar           : #"images/android-chrome-512x512.png"
+  cv               : #"pdfs/CV_Tianyu_Luan_2403.pdf"
+  location         : "Nashville TN, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XNzPzTIAAAAJ"
-  email            : "tianyulu@buffalo.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=GwWK7IoAAAAJ&hl=zh-CN"
+  email            : "ange.lou@vanderbilt.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : tyluann
+  github           : AngeLouCN
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : tianyu-luan-072518248
+  linkedin         : https://www.linkedin.com/in/ange-lou-b4494b148/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
