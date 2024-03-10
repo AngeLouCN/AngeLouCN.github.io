@@ -25,14 +25,14 @@ My research interest focuses 3D reconstruction.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and Generative AI. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
+- *2024.03*: &nbsp; I'm currently looking for 2024 **Full time position** in the field of **CV/ML/DL/Medical Image Analysis**.
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by CVPR 2024!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
 - *2023.04*: &nbsp;🎉🎉 Our paper "Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation" was accepted by IEEE Transactions on Medical Imaging (IF = 11.037)!
 - *2023.01*: &nbsp;🎉🎉 Our paper "CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects" was accepted by Journal of Medical Imaging (IF = 2.4)!
 - *2023.01*: &nbsp;🎉🎉 Our paper "CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation" was accepted by Journal of Medical Imaging (IF = 7.7)!
-- *2022.10*: &nbsp;🎉🎉 One paper was accepted by SPIE Medical Imaging 2024!
+- *2022.10*: &nbsp;🎉🎉 Two paper was accepted by SPIE Medical Imaging 2024!
 
 <span class='anchor' id='publications'></span>
 
@@ -45,34 +45,6 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 [PDF]() [Code]() [Bibtex]() -->
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_metric.png' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  **<font size=3><font face="Times New Roman">Spectrum AUC Difference (SAUCD): Human-aligned 3D Shape Evaluation</font></font>**
-
-  <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, Junsong Yuan, and Junsong Yuan. </font>
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
-
-  [\[PDF\]]() [\[Project\]](https://bit.ly/saucd) [\[Code\]]() <!-- [\[Bibtex\]]() -->
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_PC.png' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  **<font size=3><font face="Times New Roman">FSC: Few-point Shape Completion</font></font>**
-
-  <font face="Times New Roman">Xianzu Wu∗, Xianfeng Wu∗, <b>Tianyu Luan*</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
-
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
-
-  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -81,7 +53,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">DaReNeRF: Direction-aware Representation for Dynamic Scenes</font></font>**
 
-  <font face="Times New Roman">Ange Lou, Benjamin Planche, Zhongpai Gao, Yamin Li, <b>Tianyu Luan</b>, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
+  <font face="Times New Roman"><b>Ange Lou</b>, Benjamin Planche, Zhongpai Gao, Yamin Li, Tianyu Luan, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
