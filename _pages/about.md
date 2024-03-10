@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo](https://www.buffalo.edu/), advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). 
-My research interest focuses 3D reconstruction.
+I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https://engineering.vanderbilt.edu/departments/electrical-computer-engineering/), [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Prof. Jack Noble](https://www.vanderbilt.edu/vise/visepeople/jack-noble/). My research interest focuses on 2D/3D Computer Vision, Deep Learning and Medical Image Analysis.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
