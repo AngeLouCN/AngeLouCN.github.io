@@ -25,12 +25,12 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 
 # 🔥 News
 - *2024.03*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 <b>Full time position</b> in the field of <b>CV/ML/DL/Medical Image Analysis</b>. </font>
-- *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by CVPR 2024!
+- *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by **CVPR 2024**!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
-- *2023.04*: &nbsp;🎉🎉 Our paper "Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation" was accepted by IEEE Transactions on Medical Imaging (IF = 11.037)!
+- *2023.04*: &nbsp;🎉🎉 Our paper "Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation" was accepted by **IEEE Transactions on Medical Imaging (IF = 11.037)**!
 - *2023.01*: &nbsp;🎉🎉 Our paper "CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects" was accepted by Journal of Medical Imaging (IF = 2.4)!
-- *2023.01*: &nbsp;🎉🎉 Our paper "CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation" was accepted by Journal of Medical Imaging (IF = 7.7)!
+- *2023.01*: &nbsp;🎉🎉 Our paper "CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation" was accepted by **Computers in Biology and Medicine (IF = 7.7)**!
 - *2022.10*: &nbsp;🎉🎉 Two paper was accepted by SPIE Medical Imaging 2023!
 
 <span class='anchor' id='publications'></span>
