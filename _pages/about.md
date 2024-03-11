@@ -56,21 +56,21 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">ICCV 2023</div><img src='images/papers/ICCV23.png' alt="sym" width="100%"></div>
+    <div><div class="badge">SPIE 2024</div><img src='images/papers/ICCV23.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-  **<font size=3><font face="Times New Roman">Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning</font></font>**
+  **<font size=3><font face="Times New Roman">SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)</font></font>**
 
-  <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan. <em>ICCV 2023.</em></font>
+  <font face="Times New Roman"><b>Ange Lou</b>, Yamin Li, Xing Yao, Yike Zhang and Jack Noble. <em>SPIE Medical Imaging 2024.</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:n1I-9B1nxw0J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqqf20:AFWwaeYAAAAAZYGsZ23MpV74K1-ln4WldSPJdEU&scisig=AFWwaeYAAAAAZYGsZyBVVoSWge4K9uUtPSm74kk&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+  [\[PDF\]](https://arxiv.org/ftp/arxiv/papers/2308/2308.11774.pdf) [\[Code\]]() [\[Bibtex\]]()
   </div>
 </div>
 
