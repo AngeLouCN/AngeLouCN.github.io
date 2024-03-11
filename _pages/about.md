@@ -56,7 +56,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Code\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
