@@ -24,7 +24,7 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 **Full time position** in the field of **CV/ML/DL/Medical Image Analysis**. </font>
+- *2024.03*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 <b>Full time position</b> in the field of **CV/ML/DL/Medical Image Analysis**. </font>
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by CVPR 2024!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
