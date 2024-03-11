@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ange Lou (楼安格)"
-  avatar           : #"images/android-chrome-512x512.png"
+  avatar           : "images/citations.jpg"
   cv               : #"pdfs/CV_Tianyu_Luan_2403.pdf"
   location         : "Nashville TN, USA"
   employer         :
