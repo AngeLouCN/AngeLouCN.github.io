@@ -47,7 +47,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_nerf.png' alt="sym" width="100%"></div>
+    <div><div class="badge">CVPR 2024</div><img src='images/papers/darenerfgif-lowres.gif' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">DaReNeRF: Direction-aware Representation for Dynamic Scenes</font></font>**
