@@ -63,7 +63,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">SPIE 2024</div><img src='images/papers/ICCV23.png' alt="sym" width="100%"></div>
+    <div><div class="badge">SPIE 2024</div><img src='images/papers/samsnerf.gif' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)</font></font>**
@@ -77,14 +77,14 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2023</div><img src='images/papers/High-fidelity-hand.png' alt="sym" width="100%"></div>
+    <div><div class="badge">IEEE-TMI</div><img src='images/papers/min_max.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-  **<font size=3><font face="Times New Roman">High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition</font></font>**
+  **<font size=3><font face="Times New Roman">Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan. <em>CVPR 2023.</em></font>
+  **<font face="Times New Roman">Ange Lou</font>**<font face="Times New Roman">, Kareem Tawfik, Xing Yao, Ziteng Liu, and Jack Noble. <em>IEEE Transactions on Medical Imaging.</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:TkgP5GwdpD8J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqtzQQ:AFWwaeYAAAAAZYGr1QQgNSRtQUCzXEw9aiMxx64&scisig=AFWwaeYAAAAAZYGr1bu_wiXZNRrtad3F4HTLLAI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+  [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10098633) [\[Code\]](https://github.com/AngeLouCN/Min_Max_Similarity) [\[Bibtex\]]()
   </div>
 </div>
 
