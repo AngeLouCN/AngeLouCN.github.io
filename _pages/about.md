@@ -136,4 +136,4 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 # 📖 Educations
 - *2021.08 - present*, Ph.D. candidate in Electrical Engineering, [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, TN, United States
 - *2017.08 - 2019.05*, M.S. in Electrical Engineering, [George Washington University](https://www.gwu.edu/), Washington, DC, United States
-- *2013.08 - 2017.07*, B.Eng. in Energy and Power Engineering, [Wuhan University of Technology](http://english.whut.edu.cn/), Wuhan, Hebei, China
+- *2013.08 - 2017.07*, B.Eng. in Energy and Power Engineering, [Wuhan University of Technology](http://english.whut.edu.cn/), Wuhan, Hubei, China
