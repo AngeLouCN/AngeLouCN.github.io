@@ -24,7 +24,7 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; I'm currently looking for 2024 **Full time position** in the field of **CV/ML/DL/Medical Image Analysis**.
+- *2024.03*: &nbsp; 🔥🔥 I'm currently looking for 2024 **Full time position** in the field of **CV/ML/DL/Medical Image Analysis**. this will be highlighted in red
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by CVPR 2024!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
@@ -95,7 +95,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation</font></font>**
 
-  **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, and Murray Loew. <em>Computers in Biology and Medicine.</em></font>
+  **<font face="Times New Roman">Ange Lou</font>**<font face="Times New Roman">, Shuyue Guan, and Murray Loew. <em>Computers in Biology and Medicine.</em></font>
 
   [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[\[Code\]](https://github.com/AngeLouCN/CFPNet-Medicine)[\[Bibtex\]]()
   </div>
@@ -108,7 +108,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects</font></font>**
 
-  **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, Hanseok Ko, and Murray Loew. <em>Journal of Medical Imaging & SPIE Medical Imaging 2022.</em></font>
+  **<font face="Times New Roman">Ange Lou</font>**<font face="Times New Roman">, Shuyue Guan, Hanseok Ko, and Murray Loew. <em>Journal of Medical Imaging & SPIE Medical Imaging 2022.</em></font>
 
   [\[Journal\]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-1/014005/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/1.JMI.10.1.014005.short#_=_)[\[Conference\]]([https://github.com/AngeLouCN/CFPNet-Medicine](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12032/120320D/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/12.2611802.short#_=_))[\[Code\]](https://github.com/AngeLouCN/CaraNet)
   </div>
