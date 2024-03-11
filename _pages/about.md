@@ -31,7 +31,7 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 - *2023.04*: &nbsp;🎉🎉 Our paper "Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation" was accepted by IEEE Transactions on Medical Imaging (IF = 11.037)!
 - *2023.01*: &nbsp;🎉🎉 Our paper "CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects" was accepted by Journal of Medical Imaging (IF = 2.4)!
 - *2023.01*: &nbsp;🎉🎉 Our paper "CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation" was accepted by Journal of Medical Imaging (IF = 7.7)!
-- *2022.10*: &nbsp;🎉🎉 Two paper was accepted by SPIE Medical Imaging 2024!
+- *2022.10*: &nbsp;🎉🎉 Two paper was accepted by SPIE Medical Imaging 2023!
 
 <span class='anchor' id='publications'></span>
 
@@ -97,7 +97,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, and Murray Loew. <em>Computers in Biology and Medicine.</em></font>
 
-  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[Code](https://github.com/AngeLouCN/CFPNet-Medicine)[\[Bibtex\]]()
+  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[\[Code\]](https://github.com/AngeLouCN/CFPNet-Medicine)[\[Bibtex\]]()
   </div>
 </div>
 
@@ -110,34 +110,30 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, Hanseok Ko, and Murray Loew. <em>Journal of Medical Imaging & SPIE Medical Imaging 2022.</em></font>
 
-  [\[Journal\]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-1/014005/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/1.JMI.10.1.014005.short#_=_)[Conference]([https://github.com/AngeLouCN/CFPNet-Medicine](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12032/120320D/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/12.2611802.short#_=_))[\[Code\]](https://github.com/AngeLouCN/CaraNet)
+  [\[Journal\]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-1/014005/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/1.JMI.10.1.014005.short#_=_)[\[Conference\]]([https://github.com/AngeLouCN/CFPNet-Medicine](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12032/120320D/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/12.2611802.short#_=_))[\[Code\]](https://github.com/AngeLouCN/CaraNet)
   </div>
 </div>
 
 <span class='anchor' id='teaching'></span>
 
 # Teaching
-- *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
-- *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
-- *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *22 Spring*, Teaching Assistant, Circuits (ECE 2112), Vanderbilt University.
+- *21 Fall*, Teaching Assistant, Circuits (ECE 2112), Vanderbilt University.
 
 <span class='anchor' id='service'></span>
 
 # Service
-- *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
+- *Conference Reviews:* MICCAI 2023.
+- *Journal Reviews:* iScience, Journal of Medical Imaging (JMI), Imaging Science Journal, Neural Regeneration Research (NRR), IEEE Journal of Biomedical and Health Informatics (JBHI), Image and Vision Computing.
   
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Working with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
-- *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
-- *2022.05 - 2022.08*, Reseach Intern, [InnoPeak Technology](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
-- *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China. <br> Worked with [Prof. Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en).
-- *2017.05 - 2019.04*, Software Engineer, [HUAWEI](https://www.huawei.com/en/), Shenzhen, Guangdong, China.
+- *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Benjamin Planche](https://planche.me/) and [Dr. Ziyan Wu](http://wuziyan.com/).
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2021.08 - present*, Ph.D. candidate in Computer Science, [University at Buffalo](https://www.buffalo.edu/), Buffalo, NY, United States
-- *2014.09 - 2017.06*, M.Eng. in Electronical Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China
-- *2009.08 - 2013.07*, B.S. in Applied Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, Anhui, China
+- *2021.08 - present*, Ph.D. candidate in Electrical Engineering, [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, TN, United States
+- *2017.08 - 2019.05*, M.S. in Electrical Engineering, [George Washington University](https://www.gwu.edu/), Washington, DC, United States
+- *2013.08 - 2017.07*, B.Eng. in Energy and Power Engineering, [Wuhan University of Technology](http://english.whut.edu.cn/), Wuhan, Hebei, China
