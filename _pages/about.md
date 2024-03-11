@@ -90,17 +90,29 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">AAAI 2021</div><img src='images/papers/PC-HMR.png' alt="sym" width="100%"></div>
+    <div><div class="badge">CIBM</div><img src='images/papers/CFP-M.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-  **<font size=3><font face="Times New Roman">PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos</font></font>**
+  **<font size=3><font face="Times New Roman">CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan*</font>**<font face="Times New Roman">, Yali Wang*, Junhao Zhang*, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
+  **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, and Murray Loew. <em>Computers in Biology and Medicine.</em></font>
 
-  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=CgXmzFsbELDBw5NYnoQ:AAGBfm0AAAAAZAxehoQ9-gBUIKEdmF-1x7XFYksbph3D&scisig=AAGBfm0AAAAAZAxehrPkVkmlqPB0eHbs7uUsJZ7eHaMi&scisf=4&ct=citation&cd=-1&hl=en)
+  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[Code](https://github.com/AngeLouCN/CFPNet-Medicine)[\[Bibtex\]]()
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">JMI & SPIE 2022</div><img src='images/papers/caranet.jpg' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects</font></font>**
+
+  **<font face="Times New Roman">Ange Lou*</font>**<font face="Times New Roman">, Shuyue Guan, Hanseok Ko, and Murray Loew. <em>Journal of Medical Imaging & SPIE Medical Imaging 2022.</em></font>
+
+  [\[Journal\]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-1/014005/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/1.JMI.10.1.014005.short#_=_)[Conference]([https://github.com/AngeLouCN/CFPNet-Medicine](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12032/120320D/CaraNet--context-axial-reverse-attention-network-for-segmentation-of/10.1117/12.2611802.short#_=_))[\[Code\]](https://github.com/AngeLouCN/CaraNet)
+  </div>
+</div>
 
 <span class='anchor' id='teaching'></span>
 
