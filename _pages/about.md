@@ -46,7 +46,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">ECCV 2024</div><img src='images/papers/darenerfgif-lowres.gif' alt="sym" width="100%"></div>
+    <div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV24_PartBody.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images</font></font>**
