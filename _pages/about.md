@@ -24,7 +24,8 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 <b>Full time position</b> in the field of <b>CV/ML/DL/Medical Image Analysis</b>. </font>
+- *2024.07*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 <b>Full time position</b> in the field of <b>CV/ML/DL/Medical Image Analysis</b>. </font>
+- *2024.07*: &nbsp;🎉🎉 One paper "Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images" was accepted by **ECCV 2024**!
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by **CVPR 2024**!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
@@ -43,7 +44,20 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ECCV 2024</div><img src='images/papers/darenerfgif-lowres.gif' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images</font></font>**
 
+  <font face="Times New Roman"><b>Ange Lou</b>, Benjamin Planche, Zhongpai Gao, Yamin Li, Tianyu Luan, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
+
+  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+
+  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
