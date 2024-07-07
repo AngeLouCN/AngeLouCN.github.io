@@ -51,11 +51,11 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images</font></font>**
 
-  <font face="Times New Roman"><b>Ange Lou</b>, Benjamin Planche, Zhongpai Gao, Yamin Li, Tianyu Luan, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
+  <font face="Times New Roman">Tianyu Luan, Zhongpai Gao, Luyuan Xie, Abhishek Sharma, Hao Ding, Benjamin Planche, Meng Zheng, <b>Ange Lou</b>, Terrence Chen, Junsong Yuan, and Ziyan Wu.</font>
 
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+  <font face="Times New Roman"><em>ECCV 2024.</em></font>
 
-  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
