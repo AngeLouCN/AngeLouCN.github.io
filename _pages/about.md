@@ -46,6 +46,21 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div><div class="badge">arXiv</div><img src='images/papers/endovis17_3.gif' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2</font></font>**
+
+  <font face="Times New Roman"><b>Ange Lou</b>, Yamin Li, Yike Zhang, Robert F. Labadie, and Jack Noble</font>
+
+  <font face="Times New Roman"><em>arXiv.</em></font>
+
+  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV24_PartBody.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
