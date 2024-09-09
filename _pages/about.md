@@ -24,7 +24,6 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.07*: &nbsp; 🔥🔥 <font color="red">I'm currently looking for 2024 <b>Full time position</b> in the field of <b>CV/ML/DL/Medical Image Analysis</b>. </font>
 - *2024.07*: &nbsp;🎉🎉 One paper "Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images" was accepted by **ECCV 2024**!
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by **CVPR 2024**!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
