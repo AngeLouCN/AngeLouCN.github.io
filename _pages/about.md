@@ -51,7 +51,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping</font></font>**
 
-  <font face="Times New Roman">Yamin Li, <b>Ange Lou</b>, Ziyuan Xu, Roza G Bayrak, SHENGCHAO ZHANG, Shiyu Wang, Dario J. Englot, Soheil Kolouri, Daniel Moyer, Catie Chang </font>
+  <font face="Times New Roman">Yamin Li, <b>Ange Lou</b>, Ziyuan Xu, Roza G Bayrak, SHENGCHAO ZHANG, Shiyu Wang, Dario J. Englot, Soheil Kolouri, Daniel Moyer, Catie Chang.</font>
 
   <font face="Times New Roman"><em>NeurIPS 2024.</em></font>
 
