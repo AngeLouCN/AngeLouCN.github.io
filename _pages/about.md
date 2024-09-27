@@ -24,6 +24,7 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper "NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping" was accepted by **NeurIPS 2024**!
 - *2024.07*: &nbsp;🎉🎉 One paper "Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images" was accepted by **ECCV 2024**!
 - *2024.02*: &nbsp;🎉🎉 One paper "DaReNeRF: Direction-aware Representation for Dynamic Scenes" was accepted by **CVPR 2024**!
 - *2023.10*: &nbsp;🎉🎉 Five paper accepted by SPIE Medical Imaging 2024!
@@ -42,6 +43,21 @@ I am a final-year Ph.D. candidate of [Electrical and Computer Engineering](https
 High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomposition
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">NeurIPS 2024</div><img src='images/papers/nips_fig.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping</font></font>**
+
+  <font face="Times New Roman">Yamin Li, <b>Ange Lou</b>, Ziyuan Xu, Roza G Bayrak, SHENGCHAO ZHANG, Shiyu Wang, Dario J. Englot, Soheil Kolouri, Daniel Moyer, Catie Chang </font>
+
+  <font face="Times New Roman"><em>NeurIPS 2024.</em></font>
+
+  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
