@@ -55,7 +55,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>NeurIPS 2024.</em></font>
 
-  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2410.05341) [\[Project Page\]](https://soupeeli.github.io/NeuroBOLT/) 
   </div>
 </div>
 
@@ -70,7 +70,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>arXiv.</em></font>
 
-  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2408.01648)
   </div>
 </div>
 
@@ -85,7 +85,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>ECCV 2024.</em></font>
 
-  [\[PDF\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2407.09694) 
   </div>
 </div>
 
@@ -100,7 +100,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/abs/2403.02265) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4)
   </div>
 </div>
 
@@ -114,7 +114,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><b>Ange Lou</b>, Yamin Li, Xing Yao, Yike Zhang and Jack Noble. <em>SPIE Medical Imaging 2024.</em></font>
 
-  [\[PDF\]](https://arxiv.org/ftp/arxiv/papers/2308/2308.11774.pdf) [\[Code\]]() [\[Bibtex\]]()
+  [\[PDF\]](https://arxiv.org/ftp/arxiv/papers/2308/2308.11774.pdf)
   </div>
 </div>
 
@@ -128,7 +128,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Ange Lou</font>**<font face="Times New Roman">, Kareem Tawfik, Xing Yao, Ziteng Liu, and Jack Noble. <em>IEEE Transactions on Medical Imaging.</em></font>
 
-  [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10098633) [\[Code\]](https://github.com/AngeLouCN/Min_Max_Similarity) [\[Bibtex\]]()
+  [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10098633) [\[Code\]](https://github.com/AngeLouCN/Min_Max_Similarity)
   </div>
 </div>
 
@@ -141,7 +141,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Ange Lou</font>**<font face="Times New Roman">, Shuyue Guan, and Murray Loew. <em>Computers in Biology and Medicine.</em></font>
 
-  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[\[Code\]](https://github.com/AngeLouCN/CFPNet-Medicine)[\[Bibtex\]]()
+  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0010482523000446?casa_token=nJw_OzUmY1kAAAAA:37shyy1WppXpUabnuwmmckKZGB1WBHG9zfUYs8EJIjEAgDvXMYTgwVFoPtQMN-NPYBplhDA)[\[Code\]](https://github.com/AngeLouCN/CFPNet-Medicine)
   </div>
 </div>
 
