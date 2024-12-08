@@ -46,7 +46,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">NeurIPS 2024</div><img src='images/papers/nips_f.png' alt="sym" width="100%"></div>
+    <div><div class="badge">NeurIPS 2024</div><img src='images/papers/teaser_nips.gif' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping</font></font>**
