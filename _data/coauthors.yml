@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"noble":
+  - firstname: ["Jack", "J."]
+    url: https://www.vanderbilt.edu/vise/visepeople/jack-noble/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"planche":
+  - firstname: ["Benjamin", "B."]
+    url: https://planche.me/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"wu":
+  - firstname: ["Ziyan", "Z."]
+    url: http://wuziyan.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"li":
+  - firstname: ["Yamin", "Y."]
+    url: https://soupeeli.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"luan":
+  - firstname: ["Tianyu", "T."]
+    url: https://scholar.google.com/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"gao":
+  - firstname: ["Zhongpai", "Z."]
+    url: https://scholar.google.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"chen":
+  - firstname: ["Terrence", "T."]
+    url: https://scholar.google.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"guan":
+  - firstname: ["Shuyue", "S."]
+    url: https://scholar.google.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"loew":
+  - firstname: ["Murray", "M."]
+    url: https://engineering.gwu.edu/murray-loew
+
+"labadie":
+  - firstname: ["Robert F.", "Robert", "R.", "R. F."]
+    url: https://www.vumc.org/otolaryngology/person/robert-f-labadie-md-phd

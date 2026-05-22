@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AngeLouCN
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AngeLouCN/CaraNet
+  - AngeLouCN/Min_Max_Similarity
+  - AngeLouCN/CFPNet-Medicine
+  - AngeLouCN/DaReNeRF

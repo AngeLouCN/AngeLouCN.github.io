@@ -1,0 +1,315 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
+    <!-- Social icons under name -->
+    <div class="header-social-icons">
+      {% include social.liquid %}
+    </div>
+  </header>
+
+  <style>
+    html { scroll-behavior: smooth; }
+
+    .section-anchor {
+      display: block;
+      margin-top: -80px;
+      padding-top: 80px;
+    }
+
+    /* Social icons under name — circular outline buttons */
+    .header-social-icons {
+      margin-top: 0.75rem;
+      margin-bottom: 0.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+    .header-social-icons a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+      border-radius: 50%;
+      border: 1.5px solid var(--global-text-color-light);
+      font-size: 0.9rem;
+      color: var(--global-text-color-light);
+      transition: color 0.2s, background 0.2s, border-color 0.2s;
+      text-decoration: none;
+    }
+    .header-social-icons a:hover {
+      color: white;
+      background-color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+
+    /* Smaller profile photo */
+    .profile {
+      max-width: 180px !important;
+      width: 20% !important;
+    }
+
+    /* Section heading style */
+    .post article h2 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-top: 2.8rem;
+      margin-bottom: 1.1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+    .post article h2 a { text-decoration: none; }
+
+    /* Bio text spacing */
+    .post article .clearfix p {
+      line-height: 1.75;
+      margin-bottom: 0.7rem;
+    }
+
+    /* Tighter post header spacing */
+    .post-header {
+      margin-bottom: 1.2rem;
+    }
+
+    /* Publications: year heading */
+    .publications h2.bibliography {
+      font-size: 1.2rem;
+      font-weight: 700;
+      text-align: left;
+      margin-top: 1.8rem;
+      margin-bottom: 0.8rem;
+      padding-top: 0;
+      padding-bottom: 0.3rem;
+      border-top: none;
+      border-bottom: 1px solid var(--global-divider-color);
+      color: var(--global-text-color);
+    }
+
+    /* Vertically center preview image within the card row */
+    .publications ol.bibliography li .row {
+      align-items: center;
+    }
+    .publications ol.bibliography li .col-sm-2.abbr figure,
+    .publications ol.bibliography li .col-sm-2.abbr img.preview {
+      display: block;
+      margin: auto;
+    }
+
+    /* Hide venue badge above thumbnail — shown in periodical line instead */
+    .publications ol.bibliography li abbr.badge {
+      display: none;
+    }
+
+    /* Publication cards */
+    .publications ol.bibliography li {
+      padding: 0.9rem 1.1rem;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      margin-bottom: 0.75rem;
+      list-style: none;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      cursor: pointer;
+    }
+    .publications ol.bibliography li:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    }
+    .publications ol.bibliography li.pub-expanded {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    }
+    /* Hide the Abs button since click-on-card replaces it */
+    .publications ol.bibliography li a.abstract.btn {
+      display: none;
+    }
+    /* Abstract block with left blue border */
+    .publications ol.bibliography li div.abstract.hidden.open {
+      border: none;
+    }
+    .publications ol.bibliography li div.abstract.hidden.open p {
+      border-left: 3px solid var(--global-theme-color);
+      padding-left: 0.85rem;
+      margin: 0.6rem 0 0.2rem;
+      color: var(--global-text-color-light);
+      font-style: italic;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+
+    /* Publications section header row */
+    .pub-section-header {
+      display: flex;
+      align-items: baseline;
+      gap: 0.8rem;
+      margin-top: 2.8rem;
+      margin-bottom: 0;
+    }
+    .pub-section-header h2 {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+      border-bottom: none !important;
+      padding-bottom: 0 !important;
+    }
+    .expand-all-btn {
+      font-size: 0.7rem;
+      font-weight: 400;
+      color: var(--global-text-color-light);
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      font-family: inherit;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .expand-all-btn:hover {
+      color: var(--global-theme-color);
+    }
+    .pub-section-subtitle {
+      margin-top: 0.35rem;
+      margin-bottom: 1.1rem;
+      font-size: 0.88rem;
+      color: var(--global-text-color-light);
+      border-bottom: 1px solid var(--global-divider-color);
+      padding-bottom: 0.4rem;
+    }
+  </style>
+
+  <article>
+
+    {% if page.profile %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
+        {% endif %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <span id="about" class="section-anchor"></span>
+    <div class="clearfix">{{ content }}</div>
+
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <span id="news" class="section-anchor"></span>
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <span id="publications" class="section-anchor"></span>
+      <div class="pub-section-header">
+        <h2>Publications</h2>
+        <button id="expand-all-btn" class="expand-all-btn">[ Expand All TL;DRs ]</button>
+      </div>
+      <p class="pub-section-subtitle">See <a href="https://scholar.google.com/citations?user=GwWK7IoAAAAJ" target="_blank">Google Scholar</a> for full list of publications.</p>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
+
+    <!-- Visitor Map -->
+    <div class="visitor-map text-center mt-4" id="visitor-map-container"></div>
+    <script>
+      (function() {
+        const lightMapUrl = "https://mapmyvisitors.com/map.js?cl=ead1e6&w=600&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=ffffff&ct=808080&cmo=e263ef&cmn=44d2ef";
+        const darkMapUrl  = "https://mapmyvisitors.com/map.js?cl=789caa&w=600&t=n&d=-wu4jsCiEh8k7IAyx1m0jIfj1Cn9ceCP8ak49OURr1A&co=1c1c1d&ct=808080&cmo=e263ef&cmn=44d2ef";
+        function loadVisitorMap() {
+          const container = document.getElementById('visitor-map-container');
+          if (!container) return;
+          container.innerHTML = '';
+          const theme = determineComputedTheme();
+          const mapUrl = theme === 'dark' ? darkMapUrl : lightMapUrl;
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.id = 'mapmyvisitors';
+          script.src = mapUrl;
+          container.appendChild(script);
+        }
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', loadVisitorMap);
+        } else {
+          loadVisitorMap();
+        }
+        document.addEventListener('DOMContentLoaded', function() {
+          const themeToggle = document.getElementById('light-toggle');
+          if (themeToggle) {
+            themeToggle.addEventListener('click', function() {
+              setTimeout(loadVisitorMap, 100);
+            });
+          }
+        });
+      })();
+    </script>
+  </article>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Card click → toggle abstract
+      document.querySelectorAll('.publications ol.bibliography li').forEach(function (li) {
+        li.addEventListener('click', function (e) {
+          if (e.target.closest('a') || e.target.closest('button')) return;
+          if (e.target.closest('img[data-zoomable]') || e.target.closest('figure')) return;
+          var abstract = li.querySelector('div.abstract.hidden');
+          if (!abstract) return;
+          var isOpen = abstract.classList.contains('open');
+          abstract.classList.toggle('open', !isOpen);
+          li.classList.toggle('pub-expanded', !isOpen);
+        });
+      });
+
+      // Expand / collapse all abstracts
+      var expandAllBtn = document.getElementById('expand-all-btn');
+      if (expandAllBtn) {
+        var allExpanded = false;
+        expandAllBtn.addEventListener('click', function () {
+          allExpanded = !allExpanded;
+          document.querySelectorAll('.publications ol.bibliography li').forEach(function (li) {
+            var abstract = li.querySelector('div.abstract.hidden');
+            if (!abstract) return;
+            abstract.classList.toggle('open', allExpanded);
+            li.classList.toggle('pub-expanded', allExpanded);
+          });
+          expandAllBtn.textContent = allExpanded ? '[ Collapse All TL;DRs ]' : '[ Expand All TL;DRs ]';
+        });
+      }
+    });
+
+      // GIF zoom: runs after defer scripts (zoom.js) have initialized medium_zoom
+      window.addEventListener('load', function () {
+        var bg = getComputedStyle(document.documentElement).getPropertyValue('--global-bg-color') + 'ee';
+        var gifImgs = document.querySelectorAll('.publications img[data-zoomable][src$=".gif"]');
+        if (!gifImgs.length || typeof mediumZoom === 'undefined') return;
+        if (window.medium_zoom) {
+          gifImgs.forEach(function (img) {
+            try { window.medium_zoom.detach(img); } catch (e) {}
+          });
+        }
+        mediumZoom(gifImgs, { margin: 4, background: bg });
+      });
+  </script>
+</div>

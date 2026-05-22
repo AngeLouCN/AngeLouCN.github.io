@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-04-30 07:59:00-0400
+date: 2024-11-06 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Our paper, **UniEFS** (**U**nified **E**EG-to-**f**MRI **S**ynthesis), has been accepted to `ICML2026`:brain::sparkles:!! Details coming soon!
+Excited to join [Accenture](https://www.accenture.com/) as a **Research Scientist**, working on LLM and multi-agent systems!
+

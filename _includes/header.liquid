@@ -49,12 +49,17 @@
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
+              About
               {% if page.permalink == '/' %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
+
+          <!-- Section anchors -->
+          <li class="nav-item"><a class="nav-link nav-section-link" href="{{ '/' | relative_url }}#experience">Experience</a></li>
+          <li class="nav-item"><a class="nav-link nav-section-link" href="{{ '/' | relative_url }}#news">News</a></li>
+          <li class="nav-item"><a class="nav-link nav-section-link" href="{{ '/' | relative_url }}#publications">Publications</a></li>
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}

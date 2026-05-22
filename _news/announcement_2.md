@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-15 07:59:00-0400
+date: 2024-07-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Two papers were accepted by `SPIE: Medical Imaging 2024`! 
+One paper "Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images" was accepted by **ECCV 2024**!

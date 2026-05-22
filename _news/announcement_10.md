@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-11-21 07:59:00-0400
+date: 2025-12-01 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Officially wrapped up my research internship at `Meta`!
+One paper "UnEBOLT: A Unified Model for EEG-to-BOLD Translation and Functional Connectivity Reconstruction" was accepted by **MIDL 2026**!
+

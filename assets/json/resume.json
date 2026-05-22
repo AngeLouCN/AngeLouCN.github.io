@@ -1,37 +1,63 @@
 {
+  "basics": {
+    "name": "Ange Lou",
+    "label": "Research Scientist",
+    "email": "ange.lou@accenture.com",
+    "url": "https://angeloucn.github.io",
+    "location": {
+      "city": "Nashville",
+      "region": "TN",
+      "countryCode": "US"
+    }
+  },
+  "work": [
+    {
+      "name": "Accenture",
+      "position": "Research Scientist",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Research Scientist at Accenture."
+    },
+    {
+      "name": "United Imaging Intelligence",
+      "position": "Research Intern",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-31",
+      "summary": "Computer vision research with Dr. Benjamin Planche and Dr. Ziyan Wu."
+    }
+  ],
   "education": [
     {
       "institution": "Vanderbilt University",
-      "location": "Nashville, USA",
+      "location": "Nashville, TN, USA",
       "url": "",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "2022-08-15",
-      "endDate": "",
-      "score": "10"
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2021-08-01",
+      "endDate": "2024-11-30"
     },
     {
-      "institution": "Shanghai Jiao Tong University",
-      "location": "Shanghai, China",
+      "institution": "George Washington University",
+      "location": "Washington, DC, USA",
       "url": "",
-      "area": "Biomedical Engineering",
-      "studyType": "MS",
-      "startDate": "2019-09-01",
-      "endDate": "2022-03-26"
+      "area": "Electrical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2017-08-01",
+      "endDate": "2019-05-31"
     },
     {
-      "institution": "Xi'an Jiaotong University",
-      "location": "Xi'an, China",
+      "institution": "Wuhan University of Technology",
+      "location": "Wuhan, Hubei, China",
       "url": "",
-      "area": "Biomedical Engineering",
-      "studyType": "BS",
-      "startDate": "2015-09-01",
-      "endDate": "2019-06-26"
+      "area": "Energy and Power Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2013-08-01",
+      "endDate": "2017-07-31"
     }
   ],
   "languages": [
     {
-      "language": "Mandarin",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },

@@ -1,10 +1,10 @@
 ---
-layout: cv
+layout: cv_custom
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 2
-cv_pdf: YaminLi_CV_Jan262026.pdf
+cv_pdf: AL_PhD_full_version.pdf
 description: 
 toc:
   sidebar: left
