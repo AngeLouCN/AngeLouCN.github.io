@@ -111,6 +111,26 @@ layout: default
       display: none;
     }
 
+    /* Bio card — same lift-on-hover effect as publication cards */
+    .bio-card {
+      padding: 0.9rem 1.1rem;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      margin-bottom: 0.75rem;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      cursor: default;
+      /* Establish a BFC so the card box sits beside the floated
+         profile photo instead of extending underneath it */
+      overflow: hidden;
+    }
+    .bio-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+    }
+    .bio-card p:last-child {
+      margin-bottom: 0;
+    }
+
     /* Publication cards */
     .publications ol.bibliography li {
       padding: 0.9rem 1.1rem;

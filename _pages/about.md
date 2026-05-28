@@ -16,7 +16,9 @@ selected_papers: true
 social: true
 ---
 
+<div class="bio-card" markdown="1">
 I am **Ange Lou** (楼安格), a Research Scientist at [Accenture](https://www.accenture.com/), where I work on **LLM and multi-agent systems**. Before joining Accenture, I completed my Ph.D. in [Electrical and Computer Engineering](https://engineering.vanderbilt.edu/departments/electrical-computer-engineering/) at [Vanderbilt University](https://www.vanderbilt.edu/) (2024), advised by [Prof. Jack Noble](https://www.vanderbilt.edu/vise/visepeople/jack-noble/), with research in 2D/3D Computer Vision and Medical Image Analysis. I also spent a summer as a Research Intern at [United Imaging Intelligence](https://usa.united-imaging.com/), working with [Dr. Benjamin Planche](https://planche.me/) and [Dr. Ziyan Wu](http://wuziyan.com/).
+</div>
 
 <span id="experience" class="section-anchor"></span>
 
